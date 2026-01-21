@@ -89,6 +89,7 @@ nav{
     border-color: #34353A;
     border-radius: 50%;
     border: 2px solid #34353A;
+    max-height: 615px;
 }
 .about-container{
     background-color: rgb(49, 51, 59);
